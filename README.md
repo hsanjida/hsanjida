@@ -7,7 +7,6 @@ building things that solve real problems.
 
 **Interests 📌**
 - Full-stack development
-- Embedded systems & hardware (Arduino)
 - Algorithms & problem solving
 - Assistive technology
 
