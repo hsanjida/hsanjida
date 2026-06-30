@@ -16,7 +16,7 @@ building things that solve real problems.
 
 **Projects 🚀**
 - 🌉 **Skill Bridge** — Micro job platform connecting clients with skilled freelancers *(SAD project)*
-- 📽️ **UIU Talent Showcase** — UIU Talent Showcase is a platform that highlights the creativity and skills of students from United International University.*(WEB project)*
+- 📽️ **UIU Talent Showcase** — UIU Talent Showcase is a platform that highlights the creativity and skills of students from United International University *(WEB project)*
 - 🚤 Arduino-based autonomous boat with obstacle detection & avoidance
 - 🎨 Real-time screen overlay system for color-blind users *(ongoing)*
 
